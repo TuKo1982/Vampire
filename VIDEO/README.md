@@ -18,7 +18,7 @@ Written and maintained by `flype`, with the great help from the `APOLLO-Team` me
 
 # Core releases
 
-Latest `Vampire` cores are officially distributed from [here](https://www.apollo-accelerators.com/wiki/doku.php/start#core_and_software_updates). 
+Latest `Vampire` cores are officially distributed from [here](http://apollo-computer.com/downloads.php). 
 
 Additionally, Beta cores are regularly distributed in the official `ApolloTeam` Discord Channel [here](https://discord.gg/bM684VW).
 
